@@ -7,6 +7,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: duild
-        run: mvn --batch-mode --update-snapshots verify
+        run: mvn --batch-mode --update-snapshots -f src/de.archsec.fundamentals.releng.parent/pom.xml verify
       - name: deploy
         run: echo "Deploy?"
