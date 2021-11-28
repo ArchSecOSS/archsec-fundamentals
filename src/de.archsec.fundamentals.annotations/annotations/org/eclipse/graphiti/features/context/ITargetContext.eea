@@ -1,0 +1,4 @@
+class org/eclipse/graphiti/features/context/ITargetContext
+getTargetContainer
+ ()Lorg/eclipse/graphiti/mm/pictograms/ContainerShape;
+ ()L1org/eclipse/graphiti/mm/pictograms/ContainerShape;

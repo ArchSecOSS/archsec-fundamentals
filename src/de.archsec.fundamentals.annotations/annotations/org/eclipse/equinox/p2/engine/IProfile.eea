@@ -1,0 +1,7 @@
+class org/eclipse/equinox/p2/engine/IProfile
+PROP_INSTALL_FEATURES
+ Ljava/lang/String;
+ L1java/lang/String;
+getProfileId
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

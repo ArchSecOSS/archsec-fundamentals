@@ -1,0 +1,4 @@
+class org/eclipse/jface/window/Window
+configureShell
+ (Lorg/eclipse/swt/widgets/Shell;)V
+ (L1org/eclipse/swt/widgets/Shell;)V

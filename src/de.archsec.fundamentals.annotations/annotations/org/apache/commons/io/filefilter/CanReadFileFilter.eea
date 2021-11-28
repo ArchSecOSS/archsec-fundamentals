@@ -1,0 +1,10 @@
+class org/apache/commons/io/filefilter/CanReadFileFilter
+CANNOT_READ
+ Lorg/apache/commons/io/filefilter/IOFileFilter;
+ L1org/apache/commons/io/filefilter/IOFileFilter;
+CAN_READ
+ Lorg/apache/commons/io/filefilter/IOFileFilter;
+ L1org/apache/commons/io/filefilter/IOFileFilter;
+READ_ONLY
+ Lorg/apache/commons/io/filefilter/IOFileFilter;
+ L1org/apache/commons/io/filefilter/IOFileFilter;

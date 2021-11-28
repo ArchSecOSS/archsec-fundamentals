@@ -1,0 +1,4 @@
+class org/eclipse/graphiti/features/context/IAddContext
+getNewObject
+ ()Ljava/lang/Object;
+ ()L1java/lang/Object;

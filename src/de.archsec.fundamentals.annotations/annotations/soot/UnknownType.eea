@@ -1,0 +1,4 @@
+class soot/UnknownType
+v
+ ()Lsoot/UnknownType;
+ ()L1soot/UnknownType;

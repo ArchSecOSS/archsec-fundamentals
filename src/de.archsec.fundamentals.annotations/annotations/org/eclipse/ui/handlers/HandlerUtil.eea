@@ -1,0 +1,4 @@
+class org/eclipse/ui/handlers/HandlerUtil
+getCurrentSelectionChecked
+ (Lorg/eclipse/core/commands/ExecutionEvent;)Lorg/eclipse/jface/viewers/ISelection;
+ (Lorg/eclipse/core/commands/ExecutionEvent;)L1org/eclipse/jface/viewers/ISelection;

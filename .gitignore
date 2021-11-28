@@ -1,3 +1,10 @@
+*~
+
+.settings
+
+# Maven target directory
+target
+
 # Compiled class file
 *.class
 

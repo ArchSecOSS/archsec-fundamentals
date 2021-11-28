@@ -1,0 +1,7 @@
+class java/lang/reflect/Constructor
+getParameterTypes
+ ()[Ljava/lang/Class<*>;
+ ()[1Ljava/lang/Class<*>;
+newInstance
+ ([Ljava/lang/Object;)TT;
+ ([Ljava/lang/Object;)T1T;

@@ -1,0 +1,13 @@
+class java/util/Collection
+equals
+ (Ljava/lang/Object;)Z
+ (L0java/lang/Object;)Z
+iterator
+ ()Ljava/util/Iterator<TE;>;
+ ()L1java/util/Iterator<TE;>;
+stream
+ ()Ljava/util/stream/Stream<TE;>;
+ ()Ljava/util/stream/Stream<T1E;>;
+toArray
+ <T:Ljava/lang/Object;>([TT;)[TT;
+ <T:Ljava/lang/Object;>([TT;)[T1T;

@@ -1,0 +1,4 @@
+class soot/jimple/IntConstant
+v
+ (I)Lsoot/jimple/IntConstant;
+ (I)L1soot/jimple/IntConstant;

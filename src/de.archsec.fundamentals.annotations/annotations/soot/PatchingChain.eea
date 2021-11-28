@@ -1,0 +1,4 @@
+class soot/PatchingChain
+getFirst
+ ()TE;
+ ()T1E;

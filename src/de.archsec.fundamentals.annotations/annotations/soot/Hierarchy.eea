@@ -1,0 +1,7 @@
+class soot/Hierarchy
+getImplementersOf
+ (Lsoot/SootClass;)Ljava/util/List<Lsoot/SootClass;>;
+ (Lsoot/SootClass;)L1java/util/List<L1soot/SootClass;>;
+getSubclassesOfIncluding
+ (Lsoot/SootClass;)Ljava/util/List<Lsoot/SootClass;>;
+ (Lsoot/SootClass;)L1java/util/List<L1soot/SootClass;>;

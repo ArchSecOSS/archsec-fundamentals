@@ -1,0 +1,7 @@
+class soot/jimple/IfStmt
+getCondition
+ ()Lsoot/Value;
+ ()L1soot/Value;
+getTarget
+ ()Lsoot/jimple/Stmt;
+ ()L1soot/jimple/Stmt;

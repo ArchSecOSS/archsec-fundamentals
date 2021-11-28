@@ -1,0 +1,4 @@
+class soot/ByteType
+v
+ ()Lsoot/ByteType;
+ ()L1soot/ByteType;

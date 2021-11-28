@@ -1,0 +1,4 @@
+class soot/SootFieldRef
+declaringClass
+ ()Lsoot/SootClass;
+ ()L1soot/SootClass;

@@ -1,0 +1,34 @@
+class soot/jimple/Jimple
+cloneIfNecessary
+ (Lsoot/Value;)Lsoot/Value;
+ (Lsoot/Value;)L1soot/Value;
+newEqExpr
+ (Lsoot/Value;Lsoot/Value;)Lsoot/jimple/EqExpr;
+ (Lsoot/Value;Lsoot/Value;)L1soot/jimple/EqExpr;
+newGeExpr
+ (Lsoot/Value;Lsoot/Value;)Lsoot/jimple/GeExpr;
+ (Lsoot/Value;Lsoot/Value;)L1soot/jimple/GeExpr;
+newGtExpr
+ (Lsoot/Value;Lsoot/Value;)Lsoot/jimple/GtExpr;
+ (Lsoot/Value;Lsoot/Value;)L1soot/jimple/GtExpr;
+newImmediateBox
+ (Lsoot/Value;)Lsoot/ValueBox;
+ (Lsoot/Value;)L1soot/ValueBox;
+newInstanceFieldRef
+ (Lsoot/Value;Lsoot/SootFieldRef;)Lsoot/jimple/InstanceFieldRef;
+ (Lsoot/Value;Lsoot/SootFieldRef;)L1soot/jimple/InstanceFieldRef;
+newLeExpr
+ (Lsoot/Value;Lsoot/Value;)Lsoot/jimple/LeExpr;
+ (Lsoot/Value;Lsoot/Value;)L1soot/jimple/LeExpr;
+newLtExpr
+ (Lsoot/Value;Lsoot/Value;)Lsoot/jimple/LtExpr;
+ (Lsoot/Value;Lsoot/Value;)L1soot/jimple/LtExpr;
+newNeExpr
+ (Lsoot/Value;Lsoot/Value;)Lsoot/jimple/NeExpr;
+ (Lsoot/Value;Lsoot/Value;)L1soot/jimple/NeExpr;
+newNegExpr
+ (Lsoot/Value;)Lsoot/jimple/NegExpr;
+ (Lsoot/Value;)L1soot/jimple/NegExpr;
+newVariableBox
+ (Lsoot/Value;)Lsoot/ValueBox;
+ (Lsoot/Value;)L1soot/ValueBox;

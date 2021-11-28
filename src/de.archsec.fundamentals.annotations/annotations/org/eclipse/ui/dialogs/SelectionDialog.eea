@@ -1,0 +1,4 @@
+class org/eclipse/ui/dialogs/SelectionDialog
+getResult
+ ()[Ljava/lang/Object;
+ ()[1L1java/lang/Object;

@@ -1,0 +1,4 @@
+class java/util/Deque
+removeFirst
+ ()TE;
+ ()T1E;

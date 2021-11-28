@@ -1,0 +1,7 @@
+class soot/SootField
+getDeclaringClass
+ ()Lsoot/SootClass;
+ ()L1soot/SootClass;
+getType
+ ()Lsoot/Type;
+ ()L1soot/Type;

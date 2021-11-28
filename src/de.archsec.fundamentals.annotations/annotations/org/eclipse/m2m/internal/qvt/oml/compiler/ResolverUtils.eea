@@ -1,0 +1,4 @@
+class org/eclipse/m2m/internal/qvt/oml/compiler/ResolverUtils
+toNamespaceRelativeUnitFilePath
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L1java/lang/String;

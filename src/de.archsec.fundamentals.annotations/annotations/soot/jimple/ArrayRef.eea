@@ -1,0 +1,4 @@
+class soot/jimple/ArrayRef
+getBase
+ ()Lsoot/Value;
+ ()L1soot/Value;

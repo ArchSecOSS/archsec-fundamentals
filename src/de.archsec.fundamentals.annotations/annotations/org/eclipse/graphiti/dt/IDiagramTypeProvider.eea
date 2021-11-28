@@ -1,0 +1,4 @@
+class org/eclipse/graphiti/dt/IDiagramTypeProvider
+getDiagram
+ ()Lorg/eclipse/graphiti/mm/pictograms/Diagram;
+ ()L1org/eclipse/graphiti/mm/pictograms/Diagram;

@@ -1,0 +1,4 @@
+class com/google/gson/reflect/TypeToken
+getType
+ ()Ljava/lang/reflect/Type;
+ ()L1java/lang/reflect/Type;

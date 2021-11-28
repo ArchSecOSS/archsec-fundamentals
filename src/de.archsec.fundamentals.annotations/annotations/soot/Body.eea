@@ -1,0 +1,13 @@
+class soot/Body
+getMethod
+ ()Lsoot/SootMethod;
+ ()L1soot/SootMethod;
+getParameterLocal
+ (I)Lsoot/Local;
+ (I)L1soot/Local;
+getThisLocal
+ ()Lsoot/Local;
+ ()L1soot/Local;
+getUnits
+ ()Lsoot/PatchingChain<Lsoot/Unit;>;
+ ()L1soot/PatchingChain<L1soot/Unit;>;

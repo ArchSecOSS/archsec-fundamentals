@@ -1,0 +1,7 @@
+class java/util/NavigableSet
+pollFirst
+ ()TE;
+ ()T0E;
+pollLast
+ ()TE;
+ ()T0E;

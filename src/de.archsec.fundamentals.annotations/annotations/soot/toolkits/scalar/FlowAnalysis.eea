@@ -1,0 +1,4 @@
+class soot/toolkits/scalar/FlowAnalysis
+getFlowBefore
+ (TN;)TA;
+ (TN;)T1A;

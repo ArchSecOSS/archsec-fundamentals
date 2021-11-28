@@ -1,0 +1,4 @@
+class soot/CharType
+v
+ ()Lsoot/CharType;
+ ()L1soot/CharType;

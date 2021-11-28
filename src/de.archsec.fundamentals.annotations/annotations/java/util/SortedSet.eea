@@ -1,0 +1,7 @@
+class java/util/SortedSet
+first
+ ()TE;
+ ()T1E;
+last
+ ()TE;
+ ()T1E;

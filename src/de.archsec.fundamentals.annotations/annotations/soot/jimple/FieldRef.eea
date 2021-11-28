@@ -1,0 +1,7 @@
+class soot/jimple/FieldRef
+getField
+ ()Lsoot/SootField;
+ ()L1soot/SootField;
+getFieldRef
+ ()Lsoot/SootFieldRef;
+ ()L1soot/SootFieldRef;

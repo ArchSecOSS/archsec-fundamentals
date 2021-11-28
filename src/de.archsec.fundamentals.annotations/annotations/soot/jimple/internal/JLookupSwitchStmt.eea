@@ -1,0 +1,4 @@
+class soot/jimple/internal/JLookupSwitchStmt
+getLookupValues
+ ()Ljava/util/List<Lsoot/jimple/IntConstant;>;
+ ()L1java/util/List<L1soot/jimple/IntConstant;>;

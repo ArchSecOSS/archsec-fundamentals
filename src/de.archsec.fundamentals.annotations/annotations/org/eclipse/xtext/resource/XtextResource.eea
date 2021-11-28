@@ -1,0 +1,4 @@
+class org/eclipse/xtext/resource/XtextResource
+OPTION_ENCODING
+ Ljava/lang/String;
+ L1java/lang/String;

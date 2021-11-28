@@ -1,0 +1,4 @@
+class soot/jimple/FloatConstant
+v
+ (F)Lsoot/jimple/FloatConstant;
+ (F)L1soot/jimple/FloatConstant;

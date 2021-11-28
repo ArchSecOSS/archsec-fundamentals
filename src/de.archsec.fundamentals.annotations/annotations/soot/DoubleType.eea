@@ -1,0 +1,4 @@
+class soot/DoubleType
+v
+ ()Lsoot/DoubleType;
+ ()L1soot/DoubleType;

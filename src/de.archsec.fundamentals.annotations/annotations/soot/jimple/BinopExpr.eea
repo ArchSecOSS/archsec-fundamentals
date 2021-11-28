@@ -1,0 +1,7 @@
+class soot/jimple/BinopExpr
+getOp1
+ ()Lsoot/Value;
+ ()L1soot/Value;
+getOp2
+ ()Lsoot/Value;
+ ()L1soot/Value;

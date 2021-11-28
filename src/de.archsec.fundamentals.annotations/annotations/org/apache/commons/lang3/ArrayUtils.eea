@@ -1,0 +1,7 @@
+class org/apache/commons/lang3/ArrayUtils
+add
+ <T:Ljava/lang/Object;>([TT;TT;)[TT;
+ <T:Ljava/lang/Object;>([TT;TT;)[1TT;
+addAll
+ <T:Ljava/lang/Object;>([TT;[TT;)[TT;
+ <T:Ljava/lang/Object;>([TT;[TT;)[1TT;

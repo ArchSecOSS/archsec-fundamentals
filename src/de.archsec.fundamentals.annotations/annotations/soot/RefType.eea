@@ -1,0 +1,7 @@
+class soot/RefType
+getSootClass
+ ()Lsoot/SootClass;
+ ()L1soot/SootClass;
+v
+ (Lsoot/SootClass;)Lsoot/RefType;
+ (L1soot/SootClass;)L1soot/RefType;

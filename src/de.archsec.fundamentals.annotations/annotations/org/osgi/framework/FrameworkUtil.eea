@@ -1,0 +1,4 @@
+class org/osgi/framework/FrameworkUtil
+getBundle
+ (Ljava/lang/Class<*>;)Lorg/osgi/framework/Bundle;
+ (Ljava/lang/Class<*>;)L0org/osgi/framework/Bundle;

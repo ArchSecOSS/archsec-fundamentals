@@ -1,0 +1,4 @@
+class org/jcouchdb/db/Database
+findDocument
+ <D:Ljava/lang/Object;>(Ljava/lang/Class<TD;>;Ljava/lang/String;Lorg/svenson/JSONParser;)TD;
+ <D:Ljava/lang/Object;>(Ljava/lang/Class<TD;>;Ljava/lang/String;Lorg/svenson/JSONParser;)T0D;

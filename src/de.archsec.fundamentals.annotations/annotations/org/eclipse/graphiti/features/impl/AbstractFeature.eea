@@ -1,0 +1,7 @@
+class org/eclipse/graphiti/features/impl/AbstractFeature
+getDiagram
+ ()Lorg/eclipse/graphiti/mm/pictograms/Diagram;
+ ()L1org/eclipse/graphiti/mm/pictograms/Diagram;
+getFeatureProvider
+ ()Lorg/eclipse/graphiti/features/IFeatureProvider;
+ ()L1org/eclipse/graphiti/features/IFeatureProvider;

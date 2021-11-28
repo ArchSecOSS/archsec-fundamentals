@@ -1,0 +1,4 @@
+class soot/toolkits/graph/ExceptionalUnitGraph
+getUnexceptionalSuccsOf
+ (Lsoot/Unit;)Ljava/util/List<Lsoot/Unit;>;
+ (Lsoot/Unit;)L1java/util/List<L1soot/Unit;>;

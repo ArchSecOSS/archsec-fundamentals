@@ -1,0 +1,4 @@
+class soot/jimple/LongConstant
+v
+ (J)Lsoot/jimple/LongConstant;
+ (J)L1soot/jimple/LongConstant;

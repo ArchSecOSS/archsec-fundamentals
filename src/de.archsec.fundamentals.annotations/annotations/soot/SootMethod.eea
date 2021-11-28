@@ -1,0 +1,22 @@
+class soot/SootMethod
+getActiveBody
+ ()Lsoot/Body;
+ ()L1soot/Body;
+getDeclaringClass
+ ()Lsoot/SootClass;
+ ()L1soot/SootClass;
+getParameterTypes
+ ()Ljava/util/List<Lsoot/Type;>;
+ ()L1java/util/List<L1soot/Type;>;
+getReturnType
+ ()Lsoot/Type;
+ ()L1soot/Type;
+getSignature
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getSubSignature
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+retrieveActiveBody
+ ()Lsoot/Body;
+ ()L1soot/Body;

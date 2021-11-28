@@ -1,0 +1,4 @@
+class org/eclipse/equinox/p2/query/QueryUtil
+createIUQuery
+ (Ljava/lang/String;Lorg/eclipse/equinox/p2/metadata/VersionRange;)Lorg/eclipse/equinox/p2/query/IQuery<Lorg/eclipse/equinox/p2/metadata/IInstallableUnit;>;
+ (Ljava/lang/String;Lorg/eclipse/equinox/p2/metadata/VersionRange;)L1org/eclipse/equinox/p2/query/IQuery<L1org/eclipse/equinox/p2/metadata/IInstallableUnit;>;

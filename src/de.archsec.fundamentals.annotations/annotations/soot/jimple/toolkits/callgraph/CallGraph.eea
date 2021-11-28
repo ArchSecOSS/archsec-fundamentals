@@ -1,0 +1,7 @@
+class soot/jimple/toolkits/callgraph/CallGraph
+edgesOutOf
+ (Lsoot/MethodOrMethodContext;)Ljava/util/Iterator<Lsoot/jimple/toolkits/callgraph/Edge;>;
+ (Lsoot/MethodOrMethodContext;)L1java/util/Iterator<L1soot/jimple/toolkits/callgraph/Edge;>;
+edgesOutOf
+ (Lsoot/Unit;)Ljava/util/Iterator<Lsoot/jimple/toolkits/callgraph/Edge;>;
+ (Lsoot/Unit;)L1java/util/Iterator<L1soot/jimple/toolkits/callgraph/Edge;>;

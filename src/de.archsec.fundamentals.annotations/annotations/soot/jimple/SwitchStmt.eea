@@ -1,0 +1,7 @@
+class soot/jimple/SwitchStmt
+getDefaultTarget
+ ()Lsoot/Unit;
+ ()L1soot/Unit;
+getTarget
+ (I)Lsoot/Unit;
+ (I)L1soot/Unit;

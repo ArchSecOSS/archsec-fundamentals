@@ -1,0 +1,7 @@
+class org/eclipse/graphiti/services/Graphiti
+getGaService
+ ()Lorg/eclipse/graphiti/services/IGaService;
+ ()L1org/eclipse/graphiti/services/IGaService;
+getPeService
+ ()Lorg/eclipse/graphiti/services/IPeService;
+ ()L1org/eclipse/graphiti/services/IPeService;

@@ -1,0 +1,4 @@
+class soot/FloatType
+v
+ ()Lsoot/FloatType;
+ ()L1soot/FloatType;

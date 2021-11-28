@@ -1,0 +1,4 @@
+class org/apache/commons/io/IOUtils
+toByteArray
+ (Ljava/io/InputStream;)[B
+ (Ljava/io/InputStream;)[1B

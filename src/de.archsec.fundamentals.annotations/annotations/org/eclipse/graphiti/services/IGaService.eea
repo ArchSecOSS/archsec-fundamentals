@@ -1,0 +1,7 @@
+class org/eclipse/graphiti/services/IGaService
+manageColor
+ (Lorg/eclipse/graphiti/mm/pictograms/Diagram;III)Lorg/eclipse/graphiti/mm/algorithms/styles/Color;
+ (Lorg/eclipse/graphiti/mm/pictograms/Diagram;III)L1org/eclipse/graphiti/mm/algorithms/styles/Color;
+manageColor
+ (Lorg/eclipse/graphiti/mm/pictograms/Diagram;Lorg/eclipse/graphiti/util/IColorConstant;)Lorg/eclipse/graphiti/mm/algorithms/styles/Color;
+ (Lorg/eclipse/graphiti/mm/pictograms/Diagram;Lorg/eclipse/graphiti/util/IColorConstant;)L1org/eclipse/graphiti/mm/algorithms/styles/Color;

@@ -1,0 +1,4 @@
+class org/eclipse/emf/ecore/resource/ResourceSet
+getLoadOptions
+ ()Ljava/util/Map<Ljava/lang/Object;Ljava/lang/Object;>;
+ ()Ljava/util/Map<L1java/lang/Object;L1java/lang/Object;>;

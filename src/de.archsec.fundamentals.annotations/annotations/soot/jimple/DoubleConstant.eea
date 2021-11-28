@@ -1,0 +1,4 @@
+class soot/jimple/DoubleConstant
+v
+ (D)Lsoot/jimple/DoubleConstant;
+ (D)L1soot/jimple/DoubleConstant;

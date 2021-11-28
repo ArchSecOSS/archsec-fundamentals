@@ -1,0 +1,4 @@
+class soot/EquivalentValue
+getValue
+ ()Lsoot/Value;
+ ()L1soot/Value;

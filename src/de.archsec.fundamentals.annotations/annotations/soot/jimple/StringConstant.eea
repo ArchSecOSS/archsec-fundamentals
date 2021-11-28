@@ -1,0 +1,4 @@
+class soot/jimple/StringConstant
+v
+ (Ljava/lang/String;)Lsoot/jimple/StringConstant;
+ (Ljava/lang/String;)L1soot/jimple/StringConstant;

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RelEng - Fundamentals Parent
+Bundle-SymbolicName: de.archsec.fundamentals.releng.parent
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: The ArchSec Project
+Automatic-Module-Name: de.archsec.fundamentals.releng.parent

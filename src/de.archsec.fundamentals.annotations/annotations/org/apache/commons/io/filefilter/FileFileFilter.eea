@@ -1,0 +1,4 @@
+class org/apache/commons/io/filefilter/FileFileFilter
+FILE
+ Lorg/apache/commons/io/filefilter/IOFileFilter;
+ L1org/apache/commons/io/filefilter/IOFileFilter;

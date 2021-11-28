@@ -1,0 +1,4 @@
+class org/eclipse/graphiti/services/IPeCreateService
+createConnectionDecorator
+ (Lorg/eclipse/graphiti/mm/pictograms/Connection;ZDZ)Lorg/eclipse/graphiti/mm/pictograms/ConnectionDecorator;
+ (Lorg/eclipse/graphiti/mm/pictograms/Connection;ZDZ)L1org/eclipse/graphiti/mm/pictograms/ConnectionDecorator;

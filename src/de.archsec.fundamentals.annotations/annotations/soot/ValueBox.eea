@@ -1,0 +1,4 @@
+class soot/ValueBox
+getValue
+ ()Lsoot/Value;
+ ()L1soot/Value;

@@ -1,0 +1,4 @@
+class soot/jimple/NullConstant
+v
+ ()Lsoot/jimple/NullConstant;
+ ()L1soot/jimple/NullConstant;

@@ -1,0 +1,16 @@
+class org/eclipse/emf/ecore/util/Switch
+defaultCase
+ (Lorg/eclipse/emf/ecore/EObject;)TT;
+ (L1org/eclipse/emf/ecore/EObject;)T0T;
+doSwitch
+ (ILorg/eclipse/emf/ecore/EObject;)TT;
+ (IL1org/eclipse/emf/ecore/EObject;)T0T;
+doSwitch
+ (Lorg/eclipse/emf/ecore/EClass;Lorg/eclipse/emf/ecore/EObject;)TT;
+ (L1org/eclipse/emf/ecore/EClass;L1org/eclipse/emf/ecore/EObject;)T0T;
+doSwitch
+ (Lorg/eclipse/emf/ecore/EObject;)TT;
+ (L1org/eclipse/emf/ecore/EObject;)T0T;
+isSwitchFor
+ (Lorg/eclipse/emf/ecore/EPackage;)Z
+ (L1org/eclipse/emf/ecore/EPackage;)Z

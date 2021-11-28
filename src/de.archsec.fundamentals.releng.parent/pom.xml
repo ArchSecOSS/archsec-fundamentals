@@ -1,0 +1,102 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>de.archsec</groupId>
+  <artifactId>de.archsec.fundamentals.releng.parent</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>RelEng - Fundamentals Parent</name>
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    
+    <maven.compile.source>11</maven.compile.source>
+    <maven.compile.target>11</maven.compile.target>
+
+    <tycho.version>2.5.0</tycho.version>
+    <tycho-extras.version>2.5.0</tycho-extras.version>
+
+    <eclipse.environment>JavaSE-17</eclipse.environment>
+  </properties>
+  
+  <modules>
+    <module>../de.archsec.fundamentals.releng.target</module>
+    <module>../de.archsec.fundamentals.annotations</module>
+  </modules>
+    
+  <build>
+    <plugins>
+      <!-- Activating Maven Tycho -->
+      <plugin>
+        <groupId>org.eclipse.tycho</groupId>
+        <artifactId>tycho-maven-plugin</artifactId>
+        <version>${tycho.version}</version>
+        <extensions>true</extensions>
+      </plugin>
+      
+      <!-- Target platform configuration -->
+      <plugin>
+        <groupId>org.eclipse.tycho</groupId>
+        <artifactId>target-platform-configuration</artifactId>
+        <version>${tycho.version}</version>
+        	
+        <configuration>
+          <executionEnvironment>${eclipse.environment}</executionEnvironment>
+
+          <environments>
+            <environment>
+              <os>win32</os>
+              <ws>win32</ws>
+              <arch>x86_64</arch>
+            </environment>
+            <environment>
+              <os>linux</os>
+              <ws>gtk</ws>
+              <arch>x86_64</arch>
+            </environment>
+            <environment>
+              <os>macosx</os>
+              <ws>cocoa</ws>
+              <arch>x86_64</arch>
+            </environment>
+          </environments>
+          
+          <target>
+	        <artifact>
+              <groupId>de.archsec</groupId>
+              <artifactId>de.archsec.fundamentals.releng.target</artifactId>
+              <version>1.0.0-SNAPSHOT</version>
+    	    </artifact>
+    	  </target>
+        </configuration>
+      </plugin>
+      
+      <!-- Configure compiler -->
+      <plugin>
+        <groupId>org.eclipse.tycho</groupId>
+        <artifactId>tycho-compiler-plugin</artifactId>
+        <version>${tycho.version}</version>
+        <configuration>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+    
+  <repositories>
+    <repository>
+      <id>eclipse-2021-09</id>
+      <url>${url.eclipse}</url>
+      <layout>p2</layout>
+    </repository>
+    
+    <repository>
+      <id>orbit-2021-09</id>
+      <url>${url.orbit}</url>
+      <layout>p2</layout>
+    </repository>
+  </repositories>
+</project>

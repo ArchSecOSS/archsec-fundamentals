@@ -1,0 +1,4 @@
+class org/eclipse/emf/common/util/EMap
+get
+ (Ljava/lang/Object;)TV;
+ (Ljava/lang/Object;)T0V;

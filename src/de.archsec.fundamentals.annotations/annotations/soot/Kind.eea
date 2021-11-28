@@ -1,0 +1,7 @@
+class soot/Kind
+CLINIT
+ Lsoot/Kind;
+ L1soot/Kind;
+INVALID
+ Lsoot/Kind;
+ L1soot/Kind;

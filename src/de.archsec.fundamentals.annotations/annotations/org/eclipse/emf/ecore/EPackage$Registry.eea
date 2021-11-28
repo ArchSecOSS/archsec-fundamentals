@@ -1,0 +1,4 @@
+class org/eclipse/emf/ecore/EPackage$Registry
+getEPackage
+ (Ljava/lang/String;)Lorg/eclipse/emf/ecore/EPackage;
+ (Ljava/lang/String;)L1org/eclipse/emf/ecore/EPackage;

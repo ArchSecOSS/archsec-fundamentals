@@ -1,0 +1,10 @@
+class org/osgi/framework/Bundle
+adapt
+ <A:Ljava/lang/Object;>(Ljava/lang/Class<TA;>;)TA;
+ <A:Ljava/lang/Object;>(Ljava/lang/Class<TA;>;)T0A;
+getHeaders
+ ()Ljava/util/Dictionary<Ljava/lang/String;Ljava/lang/String;>;
+ ()L1java/util/Dictionary<L1java/lang/String;L1java/lang/String;>;
+getVersion
+ ()Lorg/osgi/framework/Version;
+ ()L1org/osgi/framework/Version;

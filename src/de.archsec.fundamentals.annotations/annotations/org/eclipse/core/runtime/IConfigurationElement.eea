@@ -1,0 +1,7 @@
+class org/eclipse/core/runtime/IConfigurationElement
+createExecutableExtension
+ (Ljava/lang/String;)Ljava/lang/Object;
+ (L1java/lang/String;)L1java/lang/Object;
+getAttribute
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)Ljava/lang/String;

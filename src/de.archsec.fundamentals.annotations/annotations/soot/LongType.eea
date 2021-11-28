@@ -1,0 +1,4 @@
+class soot/LongType
+v
+ ()Lsoot/LongType;
+ ()L1soot/LongType;

@@ -1,0 +1,4 @@
+class org/apache/commons/io/FileUtils
+iterateFiles
+ (Ljava/io/File;Lorg/apache/commons/io/filefilter/IOFileFilter;Lorg/apache/commons/io/filefilter/IOFileFilter;)Ljava/util/Iterator<Ljava/io/File;>;
+ (Ljava/io/File;Lorg/apache/commons/io/filefilter/IOFileFilter;Lorg/apache/commons/io/filefilter/IOFileFilter;)Ljava/util/Iterator<L1java/io/File;>;

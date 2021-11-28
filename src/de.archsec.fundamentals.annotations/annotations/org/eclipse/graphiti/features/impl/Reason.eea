@@ -1,0 +1,7 @@
+class org/eclipse/graphiti/features/impl/Reason
+createFalseReason
+ ()Lorg/eclipse/graphiti/features/IReason;
+ ()L1org/eclipse/graphiti/features/IReason;
+createTrueReason
+ (Ljava/lang/String;)Lorg/eclipse/graphiti/features/IReason;
+ (Ljava/lang/String;)L1org/eclipse/graphiti/features/IReason;

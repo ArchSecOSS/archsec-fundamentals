@@ -1,0 +1,4 @@
+class soot/Type
+getEscapedName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

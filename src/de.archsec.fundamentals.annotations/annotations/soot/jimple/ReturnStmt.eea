@@ -1,0 +1,4 @@
+class soot/jimple/ReturnStmt
+getOp
+ ()Lsoot/Value;
+ ()L1soot/Value;

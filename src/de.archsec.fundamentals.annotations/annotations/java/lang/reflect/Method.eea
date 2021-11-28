@@ -1,0 +1,7 @@
+class java/lang/reflect/Method
+getAnnotation
+ <T::Ljava/lang/annotation/Annotation;>(Ljava/lang/Class<TT;>;)TT;
+ <T::Ljava/lang/annotation/Annotation;>(Ljava/lang/Class<TT;>;)T0T;
+getParameterTypes
+ ()[Ljava/lang/Class<*>;
+ ()[1L1java/lang/Class<*>;

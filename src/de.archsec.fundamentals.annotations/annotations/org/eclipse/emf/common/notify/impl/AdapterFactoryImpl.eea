@@ -1,0 +1,4 @@
+class org/eclipse/emf/common/notify/impl/AdapterFactoryImpl
+createAdapter
+ (Lorg/eclipse/emf/common/notify/Notifier;)Lorg/eclipse/emf/common/notify/Adapter;
+ (L1org/eclipse/emf/common/notify/Notifier;)Lorg/eclipse/emf/common/notify/Adapter;

@@ -1,0 +1,4 @@
+class soot/jimple/CastExpr
+getOp
+ ()Lsoot/Value;
+ ()L1soot/Value;

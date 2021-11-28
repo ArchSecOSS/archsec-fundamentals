@@ -1,0 +1,13 @@
+class soot/FastHierarchy
+getAllImplementersOfInterface
+ (Lsoot/SootClass;)Ljava/util/Set<Lsoot/SootClass;>;
+ (Lsoot/SootClass;)L1java/util/Set<L1soot/SootClass;>;
+getAllSubinterfaces
+ (Lsoot/SootClass;)Ljava/util/Set<Lsoot/SootClass;>;
+ (Lsoot/SootClass;)L1java/util/Set<L1soot/SootClass;>;
+getSubclassesOf
+ (Lsoot/SootClass;)Ljava/util/Collection<Lsoot/SootClass;>;
+ (Lsoot/SootClass;)L1java/util/Collection<L1soot/SootClass;>;
+resolveAbstractDispatch
+ (Lsoot/SootClass;Lsoot/SootMethod;)Ljava/util/Set<Lsoot/SootMethod;>;
+ (Lsoot/SootClass;Lsoot/SootMethod;)L1java/util/Set<L1soot/SootMethod;>;

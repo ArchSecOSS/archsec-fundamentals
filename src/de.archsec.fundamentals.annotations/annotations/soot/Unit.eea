@@ -1,0 +1,10 @@
+class soot/Unit
+getDefBoxes
+ ()Ljava/util/List<Lsoot/ValueBox;>;
+ ()L1java/util/List<L1soot/ValueBox;>;
+getUseAndDefBoxes
+ ()Ljava/util/List<Lsoot/ValueBox;>;
+ ()L1java/util/List<L1soot/ValueBox;>;
+getUseBoxes
+ ()Ljava/util/List<Lsoot/ValueBox;>;
+ ()L1java/util/List<L1soot/ValueBox;>;

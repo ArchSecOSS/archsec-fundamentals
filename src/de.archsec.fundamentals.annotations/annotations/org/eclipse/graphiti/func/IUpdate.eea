@@ -1,0 +1,10 @@
+class org/eclipse/graphiti/func/IUpdate
+canUpdate
+ (Lorg/eclipse/graphiti/features/context/IUpdateContext;)Z
+ (L1org/eclipse/graphiti/features/context/IUpdateContext;)Z
+update
+ (Lorg/eclipse/graphiti/features/context/IUpdateContext;)Z
+ (L1org/eclipse/graphiti/features/context/IUpdateContext;)Z
+updateNeeded
+ (Lorg/eclipse/graphiti/features/context/IUpdateContext;)Lorg/eclipse/graphiti/features/IReason;
+ (L1org/eclipse/graphiti/features/context/IUpdateContext;)Lorg/eclipse/graphiti/features/IReason;

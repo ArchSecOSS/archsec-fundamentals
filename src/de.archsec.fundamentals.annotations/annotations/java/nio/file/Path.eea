@@ -1,0 +1,13 @@
+class java/nio/file/Path
+getFileName
+ ()Ljava/nio/file/Path;
+ ()L0java/nio/file/Path;
+getParent
+ ()Ljava/nio/file/Path;
+ ()L0java/nio/file/Path;
+resolve
+ (Ljava/lang/String;)Ljava/nio/file/Path;
+ (L1java/lang/String;)L1java/nio/file/Path;
+toFile
+ ()Ljava/io/File;
+ ()L1java/io/File;

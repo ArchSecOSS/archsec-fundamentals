@@ -1,0 +1,4 @@
+class soot/jimple/InstanceInvokeExpr
+getBase
+ ()Lsoot/Value;
+ ()L1soot/Value;

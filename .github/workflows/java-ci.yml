@@ -1,0 +1,12 @@
+name: Java CI
+on:   [push]
+jobs:
+  container:
+    runs-on: ubuntu-latest
+    container: library/maven:3.8.4-openjdk-17
+    steps:
+      - uses: actions/checkout@v2
+      - name: duild
+        run: mvn --batch-mode --update-snapshots verify
+      - name: deploy
+        run: echo "Deploy?"

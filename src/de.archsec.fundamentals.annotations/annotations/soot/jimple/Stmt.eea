@@ -1,0 +1,4 @@
+class soot/jimple/Stmt
+getInvokeExpr
+ ()Lsoot/jimple/InvokeExpr;
+ ()L1soot/jimple/InvokeExpr;

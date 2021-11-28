@@ -1,0 +1,4 @@
+class soot/jimple/InstanceFieldRef
+getBase
+ ()Lsoot/Value;
+ ()L1soot/Value;

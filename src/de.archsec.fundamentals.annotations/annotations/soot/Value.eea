@@ -1,0 +1,4 @@
+class soot/Value
+getType
+ ()Lsoot/Type;
+ ()L1soot/Type;

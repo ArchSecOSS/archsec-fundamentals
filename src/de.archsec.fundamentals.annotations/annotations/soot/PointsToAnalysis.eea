@@ -1,0 +1,10 @@
+class soot/PointsToAnalysis
+reachingObjects
+ (Lsoot/Local;)Lsoot/PointsToSet;
+ (Lsoot/Local;)L1soot/PointsToSet;
+reachingObjects
+ (Lsoot/Local;Lsoot/SootField;)Lsoot/PointsToSet;
+ (Lsoot/Local;Lsoot/SootField;)L1soot/PointsToSet;
+reachingObjects
+ (Lsoot/SootField;)Lsoot/PointsToSet;
+ (Lsoot/SootField;)L1soot/PointsToSet;

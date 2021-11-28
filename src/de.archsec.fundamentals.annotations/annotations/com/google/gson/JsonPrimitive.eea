@@ -1,0 +1,4 @@
+class com/google/gson/JsonPrimitive
+getAsString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

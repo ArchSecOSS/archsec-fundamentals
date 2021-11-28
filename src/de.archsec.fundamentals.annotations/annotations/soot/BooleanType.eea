@@ -1,0 +1,4 @@
+class soot/BooleanType
+v
+ ()Lsoot/BooleanType;
+ ()L1soot/BooleanType;

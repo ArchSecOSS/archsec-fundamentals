@@ -1,0 +1,4 @@
+class soot/NullType
+v
+ ()Lsoot/NullType;
+ ()L1soot/NullType;

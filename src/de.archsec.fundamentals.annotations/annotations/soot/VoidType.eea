@@ -1,0 +1,4 @@
+class soot/VoidType
+v
+ ()Lsoot/VoidType;
+ ()L1soot/VoidType;

@@ -1,0 +1,7 @@
+class soot/jimple/DefinitionStmt
+getLeftOp
+ ()Lsoot/Value;
+ ()L1soot/Value;
+getRightOp
+ ()Lsoot/Value;
+ ()L1soot/Value;

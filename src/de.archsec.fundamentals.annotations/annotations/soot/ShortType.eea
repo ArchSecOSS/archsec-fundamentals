@@ -1,0 +1,4 @@
+class soot/ShortType
+v
+ ()Lsoot/ShortType;
+ ()L1soot/ShortType;

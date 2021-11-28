@@ -1,0 +1,4 @@
+class org/eclipse/emf/ecore/EObject
+eAllContents
+ ()Lorg/eclipse/emf/common/util/TreeIterator<Lorg/eclipse/emf/ecore/EObject;>;
+ ()L1org/eclipse/emf/common/util/TreeIterator<L0org/eclipse/emf/ecore/EObject;>;

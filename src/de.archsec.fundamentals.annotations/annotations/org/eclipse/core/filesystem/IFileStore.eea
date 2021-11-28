@@ -1,0 +1,4 @@
+class org/eclipse/core/filesystem/IFileStore
+openInputStream
+ (ILorg/eclipse/core/runtime/IProgressMonitor;)Ljava/io/InputStream;
+ (ILorg/eclipse/core/runtime/IProgressMonitor;)L1java/io/InputStream;

@@ -1,0 +1,7 @@
+class org/eclipse/emf/ecore/EClass
+getEOperations
+ ()Lorg/eclipse/emf/common/util/EList<Lorg/eclipse/emf/ecore/EOperation;>;
+ ()L1org/eclipse/emf/common/util/EList<L1org/eclipse/emf/ecore/EOperation;>;
+getEStructuralFeatures
+ ()Lorg/eclipse/emf/common/util/EList<Lorg/eclipse/emf/ecore/EStructuralFeature;>;
+ ()L1org/eclipse/emf/common/util/EList<L1org/eclipse/emf/ecore/EStructuralFeature;>;

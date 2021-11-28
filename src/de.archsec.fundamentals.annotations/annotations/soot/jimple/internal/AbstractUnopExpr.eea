@@ -1,0 +1,4 @@
+class soot/jimple/internal/AbstractUnopExpr
+getOp
+ ()Lsoot/Value;
+ ()L1soot/Value;

@@ -1,0 +1,4 @@
+class org/eclipse/graphiti/mm/pictograms/PictogramsFactory
+createContainerShape
+ ()Lorg/eclipse/graphiti/mm/pictograms/ContainerShape;
+ ()L1org/eclipse/graphiti/mm/pictograms/ContainerShape;

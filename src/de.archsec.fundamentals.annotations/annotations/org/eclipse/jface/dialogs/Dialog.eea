@@ -1,0 +1,10 @@
+class org/eclipse/jface/dialogs/Dialog
+createButtonBar
+ (Lorg/eclipse/swt/widgets/Composite;)Lorg/eclipse/swt/widgets/Control;
+ (L1org/eclipse/swt/widgets/Composite;)Lorg/eclipse/swt/widgets/Control;
+createButtonsForButtonBar
+ (Lorg/eclipse/swt/widgets/Composite;)V
+ (L1org/eclipse/swt/widgets/Composite;)V
+createDialogArea
+ (Lorg/eclipse/swt/widgets/Composite;)Lorg/eclipse/swt/widgets/Control;
+ (L1org/eclipse/swt/widgets/Composite;)Lorg/eclipse/swt/widgets/Control;

@@ -1,0 +1,4 @@
+class soot/AnySubType
+v
+ (Lsoot/RefType;)Lsoot/AnySubType;
+ (Lsoot/RefType;)L1soot/AnySubType;

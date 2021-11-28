@@ -1,0 +1,7 @@
+class org/eclipse/emf/ecore/EcoreFactory
+createEClass
+ ()Lorg/eclipse/emf/ecore/EClass;
+ ()L1org/eclipse/emf/ecore/EClass;
+createEDataType
+ ()Lorg/eclipse/emf/ecore/EDataType;
+ ()L1org/eclipse/emf/ecore/EDataType;

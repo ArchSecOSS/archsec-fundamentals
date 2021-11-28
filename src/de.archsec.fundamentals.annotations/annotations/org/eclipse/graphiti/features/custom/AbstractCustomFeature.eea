@@ -1,0 +1,13 @@
+class org/eclipse/graphiti/features/custom/AbstractCustomFeature
+canExecute
+ (Lorg/eclipse/graphiti/features/context/IContext;)Z
+ (Lorg/eclipse/graphiti/features/context/IContext;)Z
+canExecute
+ (Lorg/eclipse/graphiti/features/context/ICustomContext;)Z
+ (L1org/eclipse/graphiti/features/context/ICustomContext;)Z
+execute
+ (Lorg/eclipse/graphiti/features/context/IContext;)V
+ (L1org/eclipse/graphiti/features/context/IContext;)V
+isAvailable
+ (Lorg/eclipse/graphiti/features/context/IContext;)Z
+ (L1org/eclipse/graphiti/features/context/IContext;)Z

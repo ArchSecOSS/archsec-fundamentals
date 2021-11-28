@@ -1,0 +1,4 @@
+class java/util/Properties
+getProperty
+ (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;L1java/lang/String;)L1java/lang/String;

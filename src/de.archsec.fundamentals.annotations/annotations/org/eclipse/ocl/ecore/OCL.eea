@@ -1,0 +1,4 @@
+class org/eclipse/ocl/ecore/OCL
+newInstance
+ ()Lorg/eclipse/ocl/ecore/OCL;
+ ()L1org/eclipse/ocl/ecore/OCL;

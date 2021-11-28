@@ -1,0 +1,7 @@
+class org/eclipse/core/resources/IFile
+getContents
+ ()Ljava/io/InputStream;
+ ()L1java/io/InputStream;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

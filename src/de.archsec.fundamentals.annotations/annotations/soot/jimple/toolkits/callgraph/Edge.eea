@@ -1,0 +1,7 @@
+class soot/jimple/toolkits/callgraph/Edge
+ieToKind
+ (Lsoot/jimple/InvokeExpr;)Lsoot/Kind;
+ (Lsoot/jimple/InvokeExpr;)L1soot/Kind;
+tgt
+ ()Lsoot/SootMethod;
+ ()L1soot/SootMethod;

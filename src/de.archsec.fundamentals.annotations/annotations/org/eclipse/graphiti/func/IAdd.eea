@@ -1,0 +1,7 @@
+class org/eclipse/graphiti/func/IAdd
+add
+ (Lorg/eclipse/graphiti/features/context/IAddContext;)Lorg/eclipse/graphiti/mm/pictograms/PictogramElement;
+ (L1org/eclipse/graphiti/features/context/IAddContext;)L0org/eclipse/graphiti/mm/pictograms/PictogramElement;
+canAdd
+ (Lorg/eclipse/graphiti/features/context/IAddContext;)Z
+ (L1org/eclipse/graphiti/features/context/IAddContext;)Z

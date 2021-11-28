@@ -1,0 +1,4 @@
+class org/apache/commons/cli/Options
+addOption
+ (Lorg/apache/commons/cli/Option;)Lorg/apache/commons/cli/Options;
+ (Lorg/apache/commons/cli/Option;)L1org/apache/commons/cli/Options;

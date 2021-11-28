@@ -1,0 +1,28 @@
+class java/io/File
+createTempFile
+ (Ljava/lang/String;Ljava/lang/String;)Ljava/io/File;
+ (Ljava/lang/String;Ljava/lang/String;)L1java/io/File;
+getAbsoluteFile
+ ()Ljava/io/File;
+ ()L1java/io/File;
+getAbsolutePath
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getCanonicalFile
+ ()Ljava/io/File;
+ ()L1java/io/File;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getPath
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+listFiles
+ ()[Ljava/io/File;
+ ()[L1java/io/File;
+toPath
+ ()Ljava/nio/file/Path;
+ ()L1java/nio/file/Path;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

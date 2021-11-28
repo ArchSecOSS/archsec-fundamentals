@@ -1,0 +1,13 @@
+class soot/toolkits/graph/DirectedGraph
+getHeads
+ ()Ljava/util/List<TN;>;
+ ()L1java/util/List<TN;>;
+getPredsOf
+ (TN;)Ljava/util/List<TN;>;
+ (TN;)L1java/util/List<TN;>;
+getSuccsOf
+ (TN;)Ljava/util/List<TN;>;
+ (TN;)L1java/util/List<TN;>;
+getTails
+ ()Ljava/util/List<TN;>;
+ ()L1java/util/List<TN;>;

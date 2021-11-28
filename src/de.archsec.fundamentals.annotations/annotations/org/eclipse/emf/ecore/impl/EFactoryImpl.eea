@@ -1,0 +1,13 @@
+class org/eclipse/emf/ecore/impl/EFactoryImpl
+convertToString
+ (Lorg/eclipse/emf/ecore/EDataType;Ljava/lang/Object;)Ljava/lang/String;
+ (L1org/eclipse/emf/ecore/EDataType;L1java/lang/Object;)L0java/lang/String;
+create
+ (Lorg/eclipse/emf/ecore/EClass;)Lorg/eclipse/emf/ecore/EObject;
+ (L1org/eclipse/emf/ecore/EClass;)L1org/eclipse/emf/ecore/EObject;
+createFromString
+ (Lorg/eclipse/emf/ecore/EDataType;Ljava/lang/String;)Ljava/lang/Object;
+ (Lorg/eclipse/emf/ecore/EDataType;Ljava/lang/String;)L0java/lang/Object;
+getEPackage
+ ()Lorg/eclipse/emf/ecore/EPackage;
+ ()L1org/eclipse/emf/ecore/EPackage;

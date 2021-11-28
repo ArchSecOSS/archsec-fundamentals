@@ -1,0 +1,4 @@
+class soot/IntType
+v
+ ()Lsoot/IntType;
+ ()L1soot/IntType;

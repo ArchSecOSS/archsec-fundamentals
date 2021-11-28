@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ArchSec Nullness Annotation Library
+Bundle-SymbolicName: de.archsec.fundamentals.annotations
+Bundle-Vendor: The ArchSec Project
+Bundle-Version: 1.0.0.qualifier

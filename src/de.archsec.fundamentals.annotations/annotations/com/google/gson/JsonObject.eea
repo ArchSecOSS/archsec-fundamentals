@@ -1,0 +1,7 @@
+class com/google/gson/JsonObject
+entrySet
+ ()Ljava/util/Set<Ljava/util/Map$Entry<Ljava/lang/String;Lcom/google/gson/JsonElement;>;>;
+ ()L1java/util/Set<L1java/util/Map$Entry<L1java/lang/String;L1com/google/gson/JsonElement;>;>;
+get
+ (Ljava/lang/String;)Lcom/google/gson/JsonElement;
+ (Ljava/lang/String;)L0com/google/gson/JsonElement;

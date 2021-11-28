@@ -1,0 +1,22 @@
+class java/lang/Class
+getAnnotation
+ <A::Ljava/lang/annotation/Annotation;>(Ljava/lang/Class<TA;>;)TA;
+ <A::Ljava/lang/annotation/Annotation;>(L1java/lang/Class<TA;>;)T0A;
+getDeclaredMethods
+ ()[Ljava/lang/reflect/Method;
+ ()[1L1java/lang/reflect/Method;
+getMethod
+ (Ljava/lang/String;[Ljava/lang/Class<*>;)Ljava/lang/reflect/Method;
+ (Ljava/lang/String;[Ljava/lang/Class<*>;)L1java/lang/reflect/Method;
+getMethods
+ ()[Ljava/lang/reflect/Method;
+ ()[1L1java/lang/reflect/Method;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getSimpleName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+newInstance
+ ()TT;
+ ()T1T;

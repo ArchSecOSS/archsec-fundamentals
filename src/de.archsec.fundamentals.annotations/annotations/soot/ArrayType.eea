@@ -1,0 +1,7 @@
+class soot/ArrayType
+baseType
+ Lsoot/Type;
+ L1soot/Type;
+v
+ (Lsoot/Type;I)Lsoot/ArrayType;
+ (Lsoot/Type;I)L1soot/ArrayType;

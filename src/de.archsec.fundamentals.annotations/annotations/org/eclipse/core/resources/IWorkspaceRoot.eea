@@ -1,0 +1,4 @@
+class org/eclipse/core/resources/IWorkspaceRoot
+getProjects
+ ()[Lorg/eclipse/core/resources/IProject;
+ ()[1L1org/eclipse/core/resources/IProject;

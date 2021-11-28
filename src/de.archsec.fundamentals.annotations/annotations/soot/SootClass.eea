@@ -1,0 +1,19 @@
+class soot/SootClass
+getFields
+ ()Lsoot/util/Chain<Lsoot/SootField;>;
+ ()Lsoot/util/Chain<L1soot/SootField;>;
+getMethod
+ (Ljava/lang/String;)Lsoot/SootMethod;
+ (Ljava/lang/String;)L1soot/SootMethod;
+getMethodByName
+ (Ljava/lang/String;)Lsoot/SootMethod;
+ (Ljava/lang/String;)L1soot/SootMethod;
+getMethods
+ ()Ljava/util/List<Lsoot/SootMethod;>;
+ ()L1java/util/List<L1soot/SootMethod;>;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getSuperclass
+ ()Lsoot/SootClass;
+ ()L1soot/SootClass;

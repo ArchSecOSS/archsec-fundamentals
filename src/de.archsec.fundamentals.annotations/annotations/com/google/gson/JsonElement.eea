@@ -1,0 +1,7 @@
+class com/google/gson/JsonElement
+getAsJsonObject
+ ()Lcom/google/gson/JsonObject;
+ ()L1com/google/gson/JsonObject;
+getAsJsonPrimitive
+ ()Lcom/google/gson/JsonPrimitive;
+ ()L1com/google/gson/JsonPrimitive;

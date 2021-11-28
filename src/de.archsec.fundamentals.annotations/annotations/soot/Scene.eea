@@ -1,0 +1,22 @@
+class soot/Scene
+getApplicationClasses
+ ()Lsoot/util/Chain<Lsoot/SootClass;>;
+ ()L1soot/util/Chain<L1soot/SootClass;>;
+getClasses
+ ()Lsoot/util/Chain<Lsoot/SootClass;>;
+ ()L1soot/util/Chain<L1soot/SootClass;>;
+getEntryPoints
+ ()Ljava/util/List<Lsoot/SootMethod;>;
+ ()L1java/util/List<L1soot/SootMethod;>;
+getLibraryClasses
+ ()Lsoot/util/Chain<Lsoot/SootClass;>;
+ ()L1soot/util/Chain<L1soot/SootClass;>;
+getMainMethod
+ ()Lsoot/SootMethod;
+ ()L1soot/SootMethod;
+getObjectType
+ ()Lsoot/RefType;
+ ()L1soot/RefType;
+getRefType
+ (Ljava/lang/String;)Lsoot/RefType;
+ (Ljava/lang/String;)L1soot/RefType;

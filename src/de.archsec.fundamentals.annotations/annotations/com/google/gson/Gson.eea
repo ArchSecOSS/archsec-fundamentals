@@ -1,0 +1,7 @@
+class com/google/gson/Gson
+fromJson
+ <T:Ljava/lang/Object;>(Lcom/google/gson/stream/JsonReader;Ljava/lang/reflect/Type;)TT;
+ <T:Ljava/lang/Object;>(Lcom/google/gson/stream/JsonReader;Ljava/lang/reflect/Type;)T1T;
+toJsonTree
+ (Ljava/lang/Object;)Lcom/google/gson/JsonElement;
+ (Ljava/lang/Object;)L1com/google/gson/JsonElement;

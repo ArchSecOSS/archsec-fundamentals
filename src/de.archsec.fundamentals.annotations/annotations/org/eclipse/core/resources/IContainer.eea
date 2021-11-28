@@ -1,0 +1,4 @@
+class org/eclipse/core/resources/IContainer
+getFile
+ (Lorg/eclipse/core/runtime/IPath;)Lorg/eclipse/core/resources/IFile;
+ (Lorg/eclipse/core/runtime/IPath;)L1org/eclipse/core/resources/IFile;

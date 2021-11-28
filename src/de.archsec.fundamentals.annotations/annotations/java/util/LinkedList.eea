@@ -1,0 +1,7 @@
+class java/util/LinkedList
+poll
+ ()TE;
+ ()T0E;
+remove
+ ()TE;
+ ()T1E;

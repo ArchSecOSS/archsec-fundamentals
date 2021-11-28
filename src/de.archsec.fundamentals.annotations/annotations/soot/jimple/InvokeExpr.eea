@@ -1,0 +1,13 @@
+class soot/jimple/InvokeExpr
+getArg
+ (I)Lsoot/Value;
+ (I)L1soot/Value;
+getArgs
+ ()Ljava/util/List<Lsoot/Value;>;
+ ()L1java/util/List<L1soot/Value;>;
+getMethod
+ ()Lsoot/SootMethod;
+ ()L1soot/SootMethod;
+getType
+ ()Lsoot/Type;
+ ()L1soot/Type;

@@ -1,0 +1,4 @@
+class org/eclipse/ui/PlatformUI
+getWorkbench
+ ()Lorg/eclipse/ui/IWorkbench;
+ ()L1org/eclipse/ui/IWorkbench;

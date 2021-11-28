@@ -1,0 +1,4 @@
+class org/eclipse/core/runtime/RegistryFactory
+getRegistry
+ ()Lorg/eclipse/core/runtime/IExtensionRegistry;
+ ()L0org/eclipse/core/runtime/IExtensionRegistry;
